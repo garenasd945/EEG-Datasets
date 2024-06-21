@@ -1,0 +1,11 @@
+Eye-blinks/movements
+
+Involuntary Eye Movements during Face Perception: Dataset 1, 26 electrodes, 500Hz sampling rate, and 120 trials. Eye movements and pupil diameter record, EEG and EOG data is present when subject is presented a happy/sad/angry face on the screen. [Article] [P.S: Dataset available on request only]
+Voluntary-Involuntary Eye-Blinks: Voluntary eye-blinks (subject were asked to blink voluntarily within 1s of audio stimulus) and involuntary eye-blinks (natural) was recorded for 20 subjects on 14 electrodes using g.tec. For each subject, 3 sessions with 20 trials each are present in .mat format. [Article]
+EEG-eye state: Eye-state labeled data for one continuous recording of EEG of 117 seconds with eye-closed and eye-open labels. The dataset was recorded from Emotiv headset.
+EEG-IO: Voluntary single eye-blinks (external stimulation was provided) and EEG was recorded for frontal electrodes (Fp1, Fp2) for 20 subjects using OpenBCI Device and BIOPAC Cap100C. One session was conducted including around 25 blinks per subject. Manual annotation was done using video feed. [Article]
+EEG-VV, EEG-VR: Involuntary eye-blinks (natural blinks) and EEG was recorded for frontal electrodes (Fp1, Fp2) for 12 subjects using OpenBCI Device and BIOPAC Cap100C. Subjects performed two activities - watching a video (EEG-VV) and reading an article (EEG-VR). Manual annotation was done using video feed. [Article]
+Eye State Prediction: 117 seconds recording of a single subject with labeled eye state data (open and closed) recorded using EPOC headset (14 electrodes). [Article]
+Kara-One: Imagined and vocalized phonemic and single-word prompts to access the language and speech production. 14 subjects recorded using 64-channel Neuroscan Quick-cap, along with face tracking and audio. [Article]
+EEGEyeNet: EEG and Eye Tracking recordings from 356 different subjects collected from three different experimental paradigms (left-right, angle-amplitude and absolute position) and with 128-channels. [Article] [Data]
+mEBAL: A multimodal database for eye blink detection and attention level estimation. NIR + RGB Cameras + EEG signals from 38 different students comprising of 3000 blink samples. [Article] [Data]
